@@ -1,0 +1,24 @@
+{
+  "dev": {
+    "username": "root",
+    "password": "1234",
+    "database": "callblocking",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": "6603"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
